@@ -8,11 +8,4 @@ import org.springframework.web.bind.annotation.RestController;
  * This means it will override our index.html.
  */
 @RestController
-public class PageController {
-
-    @RequestMapping("/")
-    public String home() {
-        return "Home";
-    }
-
-}
+public class PageController {}

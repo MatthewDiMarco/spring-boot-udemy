@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(90deg, rgba(6,136,184,1) 22%, rgba(4,177,240,1) 84%);
+    background-size: 100%;
+    color: #000;
+    font-size: 12px;
+    line-height: 100%;
+    margin: 10px;
+}
+
+.intro {
+    background-color: #fff;
+    opacity: .9;
+    padding: 20px;
+}
